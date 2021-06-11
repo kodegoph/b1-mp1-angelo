@@ -31,7 +31,8 @@
   cursor: pointer;
 }
 .btn-blue-price:hover {
-  background-color: $COLOR_GREY;
+  background-color: $COLOR_PRIMARY;
+  color: $COLOR_WHITE;
 }
 
 .btn-lightblue {
@@ -49,7 +50,8 @@
   cursor: pointer;
 }
 .btn-lightblue:hover {
-  background-color: $COLOR_GREY;
+  background-color: $COLOR_PRIMARY;
+  color: $COLOR_WHITE;
 }
 
 .btn-blue {
@@ -68,5 +70,6 @@
 }
 
 .btn-blue:hover {
-  background-color: $COLOR_PRIMARY_30;
+  background-color: $COLOR_PRIMARY;
+  color: $COLOR_WHITE;
 }

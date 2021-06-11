@@ -229,7 +229,7 @@
 
 .favourite-boat-info-profile {
   width: 100%;
-  height: 470px;
+  height: 100%;
   background: $COLOR_WHITE;
   padding: 30px;
   border-radius: 10px;
@@ -302,7 +302,7 @@
 
 .yacht-props-price {
   width: 100%;
-  height: 480px;
+  height: 100%;
   background: $COLOR_WHITE;
   cursor: pointer;
   filter: gray; /* IE5+ */
@@ -373,14 +373,17 @@
 .favourite-upper-con {
   padding-top: 30px;
   padding-left: 30px;
-  padding-right: 120px;
   display: flex;
   justify-content: space-between;
 }
 
 .favourite-lower-con {
   justify-content: space-between;
-  padding-right: 94px;
+  padding-right: 80px;
+}
+
+.favourite-upper-con {
+  padding-right: 100px;
 }
 
 .fav-price-props {
@@ -408,6 +411,13 @@
 @media screen and (min-width: 768px) {
   .vessel-chart {
     padding: 0%;
+  }
+  .favourite-lower-con {
+    padding-right: 80 px;
+  }
+
+  .favourite-upper-con {
+    padding-right: 110px;
   }
 }
 
@@ -484,6 +494,7 @@
 .services-info {
   width: 252px;
   height: 285px;
+  align-items: center;
 }
 
 .services-image-props {
