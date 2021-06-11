@@ -125,7 +125,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/kodegoph/b1-mp1-angelo/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -143,7 +143,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@gelo_dev](https://twitter.com/gelo_dev) - gelo.soliven01@gmail.com
 
 Project Link: [https://github.com/Gelo01/my-sass-project](https://github.com/Gelo01/my-sass-project)
 
