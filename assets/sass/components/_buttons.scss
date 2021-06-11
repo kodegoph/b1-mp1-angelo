@@ -1,0 +1,72 @@
+/** @format */
+
+.btn-yellow {
+  width: 154px;
+  height: 48px;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  text-transform: uppercase;
+  background: $COLOR_SECONDARY;
+  border-radius: 7px;
+  font-family: $MAIN_FONT;
+  cursor: pointer;
+}
+.btn-yellow:hover {
+  background-color: $COLOR_PRIMARY;
+  color: $COLOR_WHITE;
+}
+
+.btn-blue-price {
+  width: 130px;
+  height: 48px;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  text-transform: uppercase;
+  background: #1767c4;
+  border-radius: 7px;
+  font-family: "Fraunces", serif;
+  color: #fff;
+  cursor: pointer;
+}
+.btn-blue-price:hover {
+  background-color: $COLOR_GREY;
+}
+
+.btn-lightblue {
+  width: 170px;
+  height: 48px;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  background: #e0eeff;
+  border-radius: 7px;
+  color: $COLOR_PRIMARY;
+  border-style: 1px solid #1767c4;
+  font-style: bold;
+  font-family: $MAIN_FONT;
+  cursor: pointer;
+}
+.btn-lightblue:hover {
+  background-color: $COLOR_GREY;
+}
+
+.btn-blue {
+  width: 170px;
+  height: 48px;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  text-transform: uppercase;
+  background: $COLOR_PRIMARY;
+  border-radius: 7px;
+  font-family: $MAIN_FONT;
+  color: $COLOR_WHITE;
+  border-style: 1px solid $COLOR_WHITE;
+  cursor: pointer;
+}
+
+.btn-blue:hover {
+  background-color: $COLOR_PRIMARY_30;
+}

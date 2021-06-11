@@ -1,0 +1,21 @@
+hero - overall // center -- the image 
+our tours - unequal rows //cards justify center
+favorite yacht - justify center both  contents
+all yachs - justify center
+
+about us -- margins on text
+
+4200
+Power vessel  -- container fluid 
+
+our feature --margins 
+
+our services - text margins
+
+contact us 
+
+experience team - margins 
+
+testimonials  - margins 
+
+our blogs - margin text `

@@ -1,0 +1,109 @@
+/** @format */
+.footer-icon {
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 48px;
+  letter-spacing: -1px;
+  color: $COLOR_WHITE;
+  cursor: pointer;
+}
+
+.soc-med-props {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: $COLOR_SECONDARY;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+  cursor: pointer;
+  -webkit-filter: grayscale(0);
+}
+
+.soc-med-props:hover {
+  -webkit-filter: grayscale(1);
+}
+
+.menu-service-ftr {
+  font-size: 20px;
+  line-height: 32px;
+
+  letter-spacing: 3px;
+  font-size: bold;
+  font-family: $SECONDARY_FONT;
+  color: $COLOR_WHITE;
+  cursor: pointer;
+}
+
+.footer-services {
+  font-size: 20px;
+  line-height: 32px;
+  padding-top: 10px;
+  cursor: pointer;
+}
+
+.effect-box {
+  text-decoration: none;
+  color: $COLOR_WHITE;
+}
+.footer-props {
+  text-align: center;
+}
+
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.soc-media-footer {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 41px;
+}
+
+.boarder-footer {
+  background-color: $COLOR_DARK_TEXT;
+  width: 300px;
+  height: 1px;
+  margin-top: 30px;
+  display: inline-flex;
+  margin-left: 80px;
+}
+
+@media screen and (min-width: 768px) {
+  .boarder-footer {
+    width: 900px;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .boarder-footer {
+    width: 1800px;
+  }
+}
+
+.footer-prop-style {
+  text-align: center;
+}
+
+.tou-footer-props {
+  display: flex;
+  justify-content: space-around;
+}
+
+.tou-p-footer {
+  font-weight: 1;
+  font-size: 16px;
+  line-height: 32px;
+  font-family: $SECONDARY_FONT;
+  color: $COLOR_WHITE;
+  cursor: pointer;
+}
+
+.copyright-footer {
+  padding-top: 10px;
+  color: rgba(255, 255, 255, 0.502972);
+}

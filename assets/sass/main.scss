@@ -1,0 +1,157 @@
+/** @format */
+
+// abstracts
+@import "abstracts/variables";
+// vendors
+
+// base
+@import "base/reset";
+@import "base/initial";
+@import "base/typography";
+@import "base/utility";
+
+// layout
+@import "layout/grid";
+@import "layout/header";
+@import "layout/sections";
+@import "layout/footer";
+// components
+@import "components/buttons";
+// pages
+@import "pages/home"; // themes
+
+#navbar {
+  background-color: $COLOR_PRIMARY;
+  padding-bottom: 16px;
+
+  .navbar-props {
+    width: 48px;
+    height: 48px;
+    border-radius: 10%;
+    border: 1px solid $COLOR_WHITE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .column {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+#hero {
+  background-color: $COLOR_PRIMARY;
+  padding-bottom: 30px;
+  margin-top: 20px;
+  .hero-left-col {
+    margin: 0 auto;
+  }
+}
+
+.dummybox {
+  min-height: 300px;
+  width: 100%;
+  /* max-width: 570px; */
+  margin: 0 auto;
+  background: green;
+  border: 5px solid black;
+}
+
+.section-padding {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.section-lightblue {
+  background-color: $COLOR_PRIMARY_30;
+}
+
+.section-darkblue {
+  background-color: $COLOR_PRIMARY;
+}
+
+// typography
+.comp-name {
+  color: $COLOR_SECONDARY;
+  font-size: 16px;
+  line-height: 32px;
+  font-family: $SECONDARY_FONT;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  padding-bottom: 17px;
+}
+
+.bus-name {
+  font-size: 36px;
+  letter-spacing: -2px;
+  color: $COLOR_WHITE;
+  font-family: $MAIN_FONT;
+  margin-bottom: 13px;
+}
+
+@media screen and (min-width: 768px) {
+  .bus-name {
+    font-size: 56px;
+    line-height: 64px;
+  }
+}
+
+.bus-info {
+  font-weight: 1;
+  font-size: 20px;
+  line-height: 32px;
+  font-family: $SECONDARY_FONT;
+  color: $COLOR_WHITE;
+  padding-bottom: 16px;
+}
+
+.yach-numbers {
+  width: 161px;
+  height: 64px;
+  font-size: 56px;
+  line-height: 64px;
+  letter-spacing: -2px;
+  color: $COLOR_WHITE;
+  font-family: $MAIN_FONT;
+}
+
+.yach-info {
+  width: 142px;
+  height: 64px;
+  font-weight: 1;
+  font-size: 20px;
+  line-height: 32px;
+  color: $COLOR_WHITE;
+  font-family: $SECONDARY_FONT;
+}
+
+.vessel-flex {
+  display: flex;
+  flex-direction: row;
+}
+
+.bus-name-dt {
+  font-size: 40px;
+  line-height: 48px;
+  letter-spacing: -2px;
+  color: $COLOR_DARK_TEXT;
+  font-family: $MAIN_FONT;
+  padding-bottom: 13px;
+  font-weight: bold;
+}
+
+.bus-info-dt {
+  font-weight: 1;
+  font-size: 20px;
+  line-height: 32px;
+  font-family: $SECONDARY_FONT;
+  color: $COLOR_DARK_TEXT;
+  padding-bottom: 16px;
+  font-weight: bold;
+}
+
+.section-11-pic {
+  width: 273px;
+  height: 325px;
+}
