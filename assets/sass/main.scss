@@ -155,3 +155,45 @@
   width: 273px;
   height: 325px;
 }
+
+//favorite yacth new
+.fav-image-yacht {
+  width: 100%;
+}
+
+.white-boat {
+  width: 100%;
+  height: 100%;
+  background: $COLOR_WHITE;
+  padding: 20px;
+}
+
+.margin-fav {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.pd-0 {
+  padding: 0%;
+}
+
+@media screen and (min-width: 1200px) {
+  .f-end {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .white-boat {
+    width: 585px;
+    height: 560px;
+    background: $COLOR_WHITE;
+    padding: 90px;
+    text-align: start;
+    padding: 60px;
+  }
+
+  .pd-40 {
+    margin-left: 60px;
+  }
+}

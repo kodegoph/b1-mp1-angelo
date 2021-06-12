@@ -3,6 +3,7 @@
 <br />
 <p align="center">
   <a href=" Web design landing page mini project 1 (enhancement)">
+
     <img src="https://media.giphy.com/media/Jh2c2M4Q9A4FRvYrEF/giphy.gif" alt="Logo" width="700" height="500">
   </a>
 
@@ -63,6 +64,7 @@ Here are the major frameworks that you built your project using. Here are a few 
 ## Getting Started
 
 This project is about responsive layout about yatch rental and how to properly apply some css responsive to all devices
+
 Here is the link  of the webpage <li><a href="https://gelo01.github.io/responsive-yach-main/">Click me!</a></li>
 
 ### Prerequisites
@@ -134,6 +136,7 @@ Project Link: [https://github.com/Gelo01/my-sass-project](https://github.com/Gel
 - [JVectorMap](http://jvectormap.com)
 - [Font Awesome](https://fontawesome.com)
 
+
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -147,3 +150,4 @@ Project Link: [https://github.com/Gelo01/my-sass-project](https://github.com/Gel
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/angelo-soliven-1117055205
 [product-screenshot]: images/screenshot.png
+
