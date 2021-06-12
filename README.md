@@ -3,7 +3,8 @@
 <br />
 <p align="center">
   <a href=" Web design landing page mini project 1 (enhancement)">
-    <img src="https://media.giphy.com/media/Jh2c2M4Q9A4FRvYrEF/giphy.gif" alt="Logo" width="880" height="730">
+
+    <img src="https://media.giphy.com/media/Jh2c2M4Q9A4FRvYrEF/giphy.gif" alt="Logo" width="700" height="500">
   </a>
 
   <h3 align="center">Web design landing page mini project 1</h3>
@@ -33,7 +34,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="https://gelo01.github.io/responsive-yach-main/">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -63,6 +64,8 @@ Here are the major frameworks that you built your project using. Here are a few 
 ## Getting Started
 
 This project is about responsive layout about yatch rental and how to properly apply some css responsive to all devices
+
+Here is the link  of the webpage <li><a href="https://gelo01.github.io/responsive-yach-main/">Click me!</a></li>
 
 ### Prerequisites
 
@@ -132,3 +135,19 @@ Project Link: [https://github.com/Gelo01/my-sass-project](https://github.com/Gel
 - [Sticky Kit](http://leafo.net/sticky-kit)
 - [JVectorMap](http://jvectormap.com)
 - [Font Awesome](https://fontawesome.com)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/Gelo01/responsive-yach-main/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/Gelo01/responsive-yach-main/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/Gelo01/responsive-yach-main/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/Gelo01/responsive-yach-main/issues
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/angelo-soliven-1117055205
+[product-screenshot]: images/screenshot.png
+
